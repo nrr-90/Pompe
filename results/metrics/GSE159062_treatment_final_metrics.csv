@@ -1,0 +1,2 @@
+run_name,seed,best_epoch,n_genes,n_tfs,n_train_edges,n_val_edges,n_test_edges,n_prior_train_edges,best_val_auc,best_val_aupr,best_val_aupr_norm,final_val_auc,final_val_aupr,final_val_aupr_norm,test_auc,test_aupr,test_aupr_norm,lr,epochs,batch_size,output_dim,type,reduction
+POMPE_GSE159062_Treated_genes6116_seed8,8,19,6116,1518,4326,926,930,2163,0.9105887511720445,0.9056968459352099,1.8113936918704199,0.9114167626849032,0.9042943238898089,1.8085886477796178,0.906594982078853,0.9091542647830629,1.8183085295661259,0.003,20,256,16,dot,concate

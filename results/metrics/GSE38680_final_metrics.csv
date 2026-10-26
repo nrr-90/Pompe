@@ -1,0 +1,2 @@
+run_name,seed,best_epoch,n_genes,n_tfs,n_train_edges,n_val_edges,n_test_edges,n_prior_train_edges,best_val_auc,best_val_aupr,best_val_aupr_norm,final_val_auc,final_val_aupr,final_val_aupr_norm,test_auc,test_aupr,test_aupr_norm,lr,epochs,batch_size,output_dim,type,reduction
+GSE38680_BICEPS_VALIDATION_genes5485_seed8,8,14,5485,1436,4314,924,926,2157,0.918104983040048,0.9181225516223286,1.8362451032446572,0.9145419875939356,0.9136372868444278,1.8272745736888556,0.9145375497390014,0.9099821605229559,1.8199643210459118,0.003,30,256,16,dot,concate
