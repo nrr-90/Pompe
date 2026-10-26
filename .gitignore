@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+*.h5ad
+*.CEL
+*.CEL.gz
+*.pt
+*.pth
+*.ckpt
+*.pkl
+.DS_Store
